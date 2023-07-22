@@ -1,0 +1,1 @@
+/* common type across common component goes here... */
