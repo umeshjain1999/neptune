@@ -2,7 +2,7 @@
 
 ![Neptune Plane](https://media.tenor.com/rE3oG2nBCOgAAAAd/neptune-planet.gif)
 
-Frontend of CRM
+Sample Dashboard Project to experiment with frontend tools
 
 ### Resources 🐪
 - [Typescript](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
